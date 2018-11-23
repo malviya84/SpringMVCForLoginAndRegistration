@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [15/Jul/2018:01:12:13 +0530] "GET /index.jsp HTTP/1.1" 200 376 http-bio-8080-exec-1 1315
+0:0:0:0:0:0:0:1 - - [15/Jul/2018:01:12:17 +0530] "GET /empform HTTP/1.1" 200 540 http-bio-8080-exec-2 799
+0:0:0:0:0:0:0:1 - - [15/Jul/2018:01:12:26 +0530] "POST /save HTTP/1.1" 200 542 http-bio-8080-exec-4 412
+0:0:0:0:0:0:0:1 - - [15/Jul/2018:01:12:44 +0530] "GET /rest/hello/amit HTTP/1.1" 200 45 http-bio-8080-exec-6 133
+0:0:0:0:0:0:0:1 - - [15/Jul/2018:01:14:28 +0530] "GET /abc HTTP/1.1" 405 1045 http-bio-8080-exec-8 16
+0:0:0:0:0:0:0:1 - - [15/Jul/2018:01:14:59 +0530] "GET /rest//WelcomeService HTTP/1.1" 200 32 http-bio-8080-exec-10 12
